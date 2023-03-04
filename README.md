@@ -8,6 +8,8 @@ The project involves designing and building a virtual model of the SCARA robot a
 
 The simulations are visualized to aid in understanding the position and orientation of the end-effector.
 
+# Project Report
+
 ![Robotics report-1](https://user-images.githubusercontent.com/126264845/222918847-d7cffd60-a0b4-418e-a00a-30848a81e308.jpg)
 ![Robotics report-2](https://user-images.githubusercontent.com/126264845/222918853-ecc76a34-e838-471e-8fda-a4b2db2980e0.jpg)
 ![Robotics report-3](https://user-images.githubusercontent.com/126264845/222918861-416e0509-cf11-4593-9d77-8febc12c58a7.jpg)
