@@ -1,5 +1,12 @@
 # SCARA-Robot
-Calculating and simulating the position and the orientation of the end-effector of the SCARA robot using forward kinematics in both Python and Matlab.b
+
+The project aims to simulate the position and orientation of the end-effector of a SCARA (Selective Compliance Assembly Robot Arm) using forward kinematics, implemented in both Python and Matlab.
+
+The forward kinematics approach is used to determine the position and orientation of the end-effector based on the joint angles and link lengths of the robot arm. The SCARA robot arm is a type of robot commonly used in manufacturing applications, and its end-effector's position and orientation are crucial to its operation.
+
+The project involves designing and building a virtual model of the SCARA robot arm in both Python and Matlab, including the links and joints. The joint angles are the inputs, and the forward kinematics equations are used to calculate the position and orientation of the end-effector.
+
+The simulations will also be visualized to aid in understanding the position and orientation of the end-effector.
 
 ![Robotics report-1](https://user-images.githubusercontent.com/126264845/222918847-d7cffd60-a0b4-418e-a00a-30848a81e308.jpg)
 ![Robotics report-2](https://user-images.githubusercontent.com/126264845/222918853-ecc76a34-e838-471e-8fda-a4b2db2980e0.jpg)
