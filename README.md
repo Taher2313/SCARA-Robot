@@ -6,7 +6,7 @@ The forward kinematics approach is used to determine the position and orientatio
 
 The project involves designing and building a virtual model of the SCARA robot arm in both Python and Matlab, including the links and joints. The joint angles are the inputs, and the forward kinematics equations are used to calculate the position and orientation of the end-effector.
 
-The simulations will also be visualized to aid in understanding the position and orientation of the end-effector.
+The simulations are visualized to aid in understanding the position and orientation of the end-effector.
 
 ![Robotics report-1](https://user-images.githubusercontent.com/126264845/222918847-d7cffd60-a0b4-418e-a00a-30848a81e308.jpg)
 ![Robotics report-2](https://user-images.githubusercontent.com/126264845/222918853-ecc76a34-e838-471e-8fda-a4b2db2980e0.jpg)
